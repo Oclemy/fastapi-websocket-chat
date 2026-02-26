@@ -1,7 +1,7 @@
 # fastapi-websocket-chat
 Beautiful, single file, FastAPI realtime chat using websockets
 
-## Getting Started
+## Live Demo
 
 [![Run on Codely](https://codely.run/python/static/buttons/run-minimal.svg)](https://codely.run/python/projects/fastapi-websocket-chat) [![Edit on Codely](https://codely.run/python/static/buttons/browse-minimal.svg)](https://codely.run/python/projects/fastapi-websocket-chat) [![View Demo](https://codely.run/python/static/buttons/view_demo-minimal.svg)](https://codely.run/python/projects/fastapi-websocket-chat) [![One click Deploy](https://codely.run/python/static/buttons/deploy-minimal.svg)](https://codely.run/python/projects/fastapi-websocket-chat)
 
